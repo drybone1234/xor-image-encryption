@@ -124,3 +124,34 @@ IMPORTANT: XOR encryption is not intended as a replacement for modern encryption
   -Embedded/IoT Usage: Fast offline operations with low computational requirements.
 
   -Fast Preprocessing: Near-zero latency in image processing pipelines.
+
+## 📈 Performance: In the Blink of an Eye!
+
+Incredible speeds are achieved thanks to the power of NumPy vectorization.
+
+| Resolution | Encrypt Time | Decrypt Time | Hardware |
+| :--------: | :----------: | :----------: | :------: |
+| **1080p** | ~1–3 ms      | ~1–3 ms      | CPU      |
+| **4K** | ~5–10 ms     | ~5–10 ms     | CPU      |
+
+* Powered by **NumPy Vectorization**.
+* **Zero-copy** transformations.
+* **Near-zero latency**.
+
+# 🧭 Roadmap
+Development never stops! Here's what's next:
+
+✅ Multi-seed encryption (Completed!)
+
+🚧 CLI tool (xor-cli) for command-line integration
+
+🚧 Batch dataset encryption capability
+
+🚧 Optional GPU support (For even more speed)
+
+🚧 Web UI demonstration (Online demo)
+
+# 👤 Author
+Yigtwxx
+
+An engineer focused on building practical solutions at the intersection of lightweight cryptography, image processing, and reproducible engineering. I specialize in Machine Learning (ML) and Deep Learning (DL) development, utilizing Python for high-performance and scalable data applications. I am keen on open-source contributions and advancing fast, efficient algorithms.
