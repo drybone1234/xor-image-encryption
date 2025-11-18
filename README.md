@@ -149,7 +149,7 @@ Incredible speeds are achieved thanks to the power of NumPy vectorization.
 # 🧭 Roadmap
 Development never stops! Here's what's next:
 
-✅ Multi-seed encryption (Completed!)
+- Multi-seed encryption (Completed!)
 
 🚧 CLI tool (xor-cli) for command-line integration
 
